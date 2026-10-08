@@ -205,11 +205,13 @@ The Excel dashboard contains:
 ```
 pizza-sales-analysis/
 │
-├── pizza_sales.csv       
-├── pizza.sql              
-├── Pizza_Sales_Dashboard.xlsx   
-├── dashboard.png          
+├── Pizza_Sales_Dashboard.xlsx   # Excel dashboard
 └── README.md
+├── dashboard.png          # Dashboard screenshot
+├── pizza.sql              # PostgreSQL queries
+├── pizza_sales.csv        # Raw dataset
+
+
 ```
 
 ## 👤 Author

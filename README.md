@@ -217,5 +217,4 @@ pizza-sales-analysis/
 ## 👤 Author
 
 **Mahesh Kumar**
-- LinkedIn: [your-link](https://linkedin.com)
-- GitHub: [your-username](https://github.com)
+
